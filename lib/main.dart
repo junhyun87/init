@@ -1,5 +1,12 @@
 import 'package:flutter/material.dart';
 
+/*
+Git repository 관리 테스트를 위한 프로젝트
+commit, push test
+merge, rebase 등 테스트 및 공부
+ */
+
+
 void main() {
   runApp(MyApp());
 }
