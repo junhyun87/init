@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 /*
+https://backlog.com/git-tutorial/kr/stepup/stepup2_2.html
+
 Git repository 관리 테스트를 위한 프로젝트
 commit, push test
 merge, rebase 등 테스트 및 공부
